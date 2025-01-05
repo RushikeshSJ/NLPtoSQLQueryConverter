@@ -54,6 +54,36 @@ database.password=your_db_password
 3. View the generated SQL query in real-time:
    SELECT * FROM customers WHERE purchase_date LIKE '2023-12%';  
 4. Execute the query and view the results in the UI.
+
+**🗂️ File Structure**
+NLPtoSQL-Query-Converter/  
+├── backend/               # Spring Boot backend  
+│   ├── src/               # Source code  
+│   └── pom.xml            # Maven configuration  
+├── frontend/              # ReactJS frontend  
+│   ├── src/               # Source code  
+│   └── package.json       # Dependencies  
+├── README.md              # Documentation  
+
+**🌟 Features to Explore**
+1. Schema Customization: Configure backend prompts for your database.
+2. Enhanced Query Execution: Support for JOINs, aggregations, and nested queries.
+3. Error Handling: Graceful responses for unsupported queries or API errors.
+
+**🛡️ License**
+1. This project is licensed under the Apache License.
+
+**🤝 Contributing**
+1. Contributions are welcome! Feel free to open issues, suggest new features, or submit pull requests.
+
+**📬 Contact**
+If you have any questions, feel free to reach out:
+**Email: rushikeshjadhav2018@gmail.com
+Phone: +91 8788772381**
+
+Enjoy transforming natural language into powerful SQL queries with NLPtoSQL Query Converter! 🎉
+
+
    
 
 
