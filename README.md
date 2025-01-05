@@ -47,6 +47,17 @@ database.password=your_db_password
 **3. Start the Development Server:**
   npm start
 
+**🔧 Usage**
+1. Access the application at http://localhost:3000.
+2. Enter a natural language query, such as:
+    Could you show all customers who made purchases in December 2023?  
+3. View the generated SQL query in real-time:
+   SELECT * FROM customers WHERE purchase_date LIKE '2023-12%';  
+4. Execute the query and view the results in the UI.
+   
+
+
+
 
 
 
