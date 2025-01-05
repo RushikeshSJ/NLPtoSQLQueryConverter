@@ -36,8 +36,8 @@ database.username=your_db_username
 database.password=your_db_password
 
 **3. Build and Run:**
-   mvn clean install  
-   mvn spring-boot:run  
+    mvn clean install  
+    mvn spring-boot:run  
 
 **Frontend Setup (ReactJS):**
 **1. Navigate to the Frontend Directory:**
