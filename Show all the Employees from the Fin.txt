@@ -1,0 +1,3 @@
+Show all the Employees from the "Finance" Department
+
+Note: The table name is EmployeeDetails

@@ -1,0 +1,14 @@
+src/
+|-- components/
+|   |-- QueryInput.js       // View Component
+|   |-- ResultDisplay.js    // View Component
+|
+|-- controllers/
+|   |-- AppController.js    // Controller Component (Main logic & state management)
+|
+|-- models/
+|   |-- queryService.js     // Model (Axios API service)
+|
+|-- App.js                  // Entry Point
+|-- styles/
+|   |-- App.css             // Global styles
